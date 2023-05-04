@@ -1,0 +1,5 @@
+- Unduh Repository
+- Extract file repository yang sudah di download
+- Jalankan terminal pada folder extract
+- Lakukan install depencies
+- Jalankan npm install kemudian npx expo start pada terminal.
